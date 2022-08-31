@@ -1,1 +1,1 @@
-# global-mapping-swot
+# Global Mapping Swot
