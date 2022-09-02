@@ -1,0 +1,11 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "longitude"
+    ],
+    "axis": "X",
+    "long_name": "Longitude",
+    "standard_name": "longitude",
+    "units": "degrees_east",
+    "valid_max": 17.91666603088379,
+    "valid_min": 0.0
+}
