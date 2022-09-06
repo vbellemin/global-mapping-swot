@@ -19,3 +19,17 @@
 |   |   |-- swot.zarr
 |   |   |-- swot_filtered.zarr
 ```
+
+### Download results
+
+```python
+|-- osse1-nadirs or osse2-swot or osse3-allsats
+|   |-- initial
+|   |   |-- error_variance.nc
+|   |   |-- error_variance_filtered.nc
+|   |   |-- resolution.nc
+|   |-- noisy
+|   |   |-- error_variance.nc
+|   |   |-- error_variance_filtered.nc
+|   |   |-- resolution.nc
+```
