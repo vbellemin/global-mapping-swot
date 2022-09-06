@@ -2,7 +2,7 @@
 
 ### Download raw data 
 
-. 
+```python
 |-- gulf_stream or north_atlantic
 |   |-- initial
 |   |   |-- all_sats.zarr
@@ -18,4 +18,4 @@
 |   |   |-- nadirs_filtered.zarr
 |   |   |-- swot.zarr
 |   |   |-- swot_filtered.zarr
-.
+```
