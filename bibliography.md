@@ -1,7 +1,6 @@
 # Bibliographie
 
 ## Altimetry 
--
 ### Principle 
 - CNES. (2022). Aviso+ Satellite Altimetry Data. : https://www.aviso.altimetry.fr/en/techniques/altimetry.html
 - ESA & CNES. (2022). Radar Altimetry Tutorial : http://www.altimetry.info/radar-altimetry-tutorial/
