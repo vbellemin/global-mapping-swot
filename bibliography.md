@@ -39,7 +39,18 @@
 
 ### Assimilation 
 - Le Guillou et. al. (2021). Mapping Altimetry in the Forthcoming SWOT Era by Back-and-Forth Nudging a One-Layer Quasigeostrophic Model. *Journal of Atmospheric and Oceanic Technology* : https://journals.ametsoc.org/view/journals/atot/38/4/JTECH-D-20-0104.1.xml
+- 
 - Benkiran et. al. (2021). Assessing the Impact of the Assimilation of SWOT Observations in a Global High-Resolution Analysis and Forecasting System Part 1: Methods. *Frontiers in Marine Science*. : https://www.frontiersin.org/articles/10.3389/fmars.2021.691955/full 
 - Tchonang et. al. (2021). Assessing the Impact of the Assimilation of SWOT Observations in a Global High-Resolution Analysis and Forecasting System – Part 2: Results. *Frontiers in Marine Science*. : https://www.frontiersin.org/articles/10.3389/fmars.2021.687414/full 
 - Lellouche et. al. (2021). The Copernicus Global 1/12° Oceanic and Sea Ice GLORYS12 Reanalysis. *Frontiers in Earth Science*. : https://www.frontiersin.org/articles/10.3389/feart.2021.698876/full 
 
+## Ocean eddies
+### Detection 
+- Chelton et. al. (2011). Global observations of nonlinear mesoscale eddies. *Progress in oceanography*. : https://www.sciencedirect.com/science/article/abs/pii/S0079661111000036
+- Mason et. al. (2014). A New Sea Surface Height–Based Code for Oceanic Mesoscale Eddy Tracking. *Journal of Atmospheric and Oceanic Technology*. : https://journals.ametsoc.org/view/journals/atot/31/5/jtech-d-14-00019_1.xml
+- Delepoule et. al. (2022). py-eddy-tracker’s documentation. : https://py-eddy-tracker.readthedocs.io/en/stable/
+- Delepoule et. al. (2022). py-eddy-tracker. Retrieved from Github: https://github.com/AntSimi/py-eddy-tracker/
+
+### Atlas 
+- Amores et. al. (2018). Up to What Extent Can We Characterize Ocean Eddies Using Present-Day Gridded Altimetric Products?. *Journal of Geophysical Research : Oceans.* : https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JC014140
+- Pegliasco et. al. (2022). META3.1exp: a new global mesoscale eddy trajectory atlas derived from altimetry. *Earth System Sceince Data*. : https://essd.copernicus.org/articles/14/1087/2022/essd-14-1087-2022-discussion.html
