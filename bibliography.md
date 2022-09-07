@@ -2,12 +2,11 @@
 
 **SWOT :**
 -
-- https://swot.jpl.nasa.gov/system/documents/files/2178_2178_SWOT_D-79084_v10Y_FINAL_REVA__06082017.pdf
-- https://journals.ametsoc.org/view/journals/atot/33/1/jtech-d-15-0160_1.xml
-- https://journals.ametsoc.org/view/journals/atot/31/2/jtech-d-13-00109_1.xml
-- https://www.frontiersin.org/articles/10.3389/fmars.2019.00232/full
-- https://github.com/CNES/swot_simulator
-- https://swot-simulator.readthedocs.io/en/latest/
+- SWOT Project. (2017). MISSION PERFORMANCE AND ERROR BUDGET. *JPL Nasa*. : https://swot.jpl.nasa.gov/system/documents/files/2178_2178_SWOT_D-79084_v10Y_FINAL_REVA__06082017.pdf
+- Gaultier et. al. (2016). The Challenge of Using Future SWOT Data for Oceanic Field Reconstruction. *Amercian Meteorological Society*. :  https://journals.ametsoc.org/view/journals/atot/33/1/jtech-d-15-0160_1.xml
+- Fu, Lee-Lueng and Ubelmann, Clement. (2014). On the Transition from Profile Altimeter to Swath Altimeter for Observing Global Ocean Surface Topography. *Amercian Meteorological Society*. : https://journals.ametsoc.org/view/journals/atot/31/2/jtech-d-13-00109_1.xml
+- Morrow et. al. (2019). Global Observations of Fine-Scale Ocean Surface Topography With the Surface Water and Ocean Topography (SWOT) Mission. *Frontiers in Marine Science*. : https://www.frontiersin.org/articles/10.3389/fmars.2019.00232/full
+- Briol, Fred & Gaultier L. & Ubelmann C. (2022). SWOT Simulator [Source Code]. : https://github.com/CNES/swot_simulator & https://swot-simulator.readthedocs.io/en/latest/
 
 **SSH reconstruction technique :**
 -
