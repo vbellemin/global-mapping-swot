@@ -28,8 +28,10 @@
 |   |   |-- error_variance.nc
 |   |   |-- error_variance_filtered.nc
 |   |   |-- resolution.nc
+|   |   |-- ...
 |   |-- noisy
 |   |   |-- error_variance.nc
 |   |   |-- error_variance_filtered.nc
 |   |   |-- resolution.nc
+|   |   |-- ...
 ```
