@@ -13,7 +13,6 @@
 - Briol, Fred & Gaultier L. & Ubelmann C. (2022). SWOT Simulator [Source Code]. : https://github.com/CNES/swot_simulator & https://swot-simulator.readthedocs.io/en/latest/
 
 ## DUACS 
--
 ### Mapping technique 
 - Ducet, N. & Le Traon P. Y. (2000). Global high-resolution mapping of ocean circulation from TOPEX/Poseidon and ERS-1 and -2. *JOURNAL OF GEOPHYSICAL RESEARCH*. : https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2000JC900063
 - Le Traon P. Y. & Dibarboure G. (2002). Velocity Mapping Capabilities of Present and Future Altimeter Missions: The Role of High-Frequency Signals. *Journal of Atmospheric and Oceanic Technology*. : https://journals.ametsoc.org/view/journals/atot/19/12/1520-0426_2002_019_2077_vmcopa_2_0_co_2.xml
@@ -29,7 +28,6 @@
 - Ballarotta et. al. (2018). On the resolutions of ocean altimetry maps. *Ocean Science*. : https://os.copernicus.org/articles/15/1091/2019/
 
 ## SSH reconstruction technique 
--
 ### Multivariate/scale mapping 
 - Ubelmann et. al. (2021). Reconstructing Ocean Surface Current Combining Altimetry and Future Spaceborne Doppler Data. *JGR Oceans*. : https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JC016560
 - Rio et. al. (2016). Improving the Altimeter-Derived Surface Currents Using High-Resolution Sea Surface Temperature Data: A Feasability Study Based on Model Outputs. *Journal of Atmospheric and Oceanic Technology*. :  https://journals.ametsoc.org/view/journals/atot/33/12/jtech-d-16-0017_1.xml
