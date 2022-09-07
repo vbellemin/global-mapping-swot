@@ -25,24 +25,23 @@
 
 **Assimilation**
 - Le Guillou et. al. (2021). Mapping Altimetry in the Forthcoming SWOT Era by Back-and-Forth Nudging a One-Layer Quasigeostrophic Model. *Journal of Atmospheric and Oceanic Technology* : https://journals.ametsoc.org/view/journals/atot/38/4/JTECH-D-20-0104.1.xml
-- Benkiran et. al. (2021). Assessing the Impact of the Assimilation of SWOT Observations in a Global High-Resolution Analysis and Forecasting System Part 1: Methods.  *Frontiers in Marine Science*. : https://www.frontiersin.org/articles/10.3389/fmars.2021.691955/full 
-- Tchonang et. al. (2021). Assessing the Impact of the Assimilation of SWOT Observations in a Global High-Resolution Analysis and Forecasting System – Part 2: Results.  *Frontiers in Marine Science*. : https://www.frontiersin.org/articles/10.3389/fmars.2021.687414/full 
+- Benkiran et. al. (2021). Assessing the Impact of the Assimilation of SWOT Observations in a Global High-Resolution Analysis and Forecasting System Part 1: Methods. *Frontiers in Marine Science*. : https://www.frontiersin.org/articles/10.3389/fmars.2021.691955/full 
+- Tchonang et. al. (2021). Assessing the Impact of the Assimilation of SWOT Observations in a Global High-Resolution Analysis and Forecasting System – Part 2: Results. *Frontiers in Marine Science*. : https://www.frontiersin.org/articles/10.3389/fmars.2021.687414/full 
 - Lellouche et. al. (2021). The Copernicus Global 1/12° Oceanic and Sea Ice GLORYS12 Reanalysis. *Frontiers in Earth Science*. : https://www.frontiersin.org/articles/10.3389/feart.2021.698876/full 
 
 **DUACS reprocessing :**
 -
-- https://os.copernicus.org/articles/12/1067/2016/
-- https://os.copernicus.org/articles/15/1207/2019/
-- https://duacs.cls.fr/
-- https://duacs.cls.fr/duacs-system-description/
+- Pujol et. al. (2015). DUACS DT2014: the new multi-mission altimeter data set reprocessed over 20 years. *Ocean Science*. : https://os.copernicus.org/articles/12/1067/2016/
+- Taburet et. al. (2018). DUACS DT2018: 25 years of reprocessed sea level altimetry products. *Ocean Science*. : https://os.copernicus.org/articles/15/1207/2019/
+- DUACS. (2022). Data Unification and Altimeter Combination System (DUACS) - Altimetry data for sea level studies & applications. : https://duacs.cls.fr/https://duacs.cls.fr/
 
 **Products Validation :**
 -
-- https://os.copernicus.org/articles/15/1091/2019/
-- https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JC010904
-- https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2005GL024633
+- Ananda et. al. (2006). Improved description of the ocean mesoscale variability by combining four satellite altimeters. *JGR Oceans*. : https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2005GL024633
+- Dufau et. al. (2016). Mesoscale resolution capability of altimetry: Present and future. *JGR Oceans*. : https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JC010904
+- Ballarotta et. al. (2018). On the resolutions of ocean altimetry maps. *Ocean Science*. : https://os.copernicus.org/articles/15/1091/2019/
 
-**Altimetry :**
+**Principle of altimetry :**
 -
-- https://www.aviso.altimetry.fr/en/techniques/altimetry.html
-- http://www.altimetry.info/radar-altimetry-tutorial/
+- CNES. (2022). Aviso+ Satellite Altimetry Data. : https://www.aviso.altimetry.fr/en/techniques/altimetry.html
+- ESA & CNES. (2022). Radar Altimetry Tutorial : http://www.altimetry.info/radar-altimetry-tutorial/
