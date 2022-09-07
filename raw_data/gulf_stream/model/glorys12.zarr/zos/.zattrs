@@ -1,0 +1,16 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "latitude",
+        "longitude"
+    ],
+    "add_offset": 0.0,
+    "cell_methods": "area: mean",
+    "long_name": "Sea surface height",
+    "scale_factor": 0.00030518509447574615,
+    "standard_name": "sea_surface_height_above_geoid",
+    "unit_long": "Meters",
+    "units": "m",
+    "valid_max": 4896,
+    "valid_min": -6764
+}
